@@ -1,0 +1,11 @@
+{
+	"title"		:	"[DARKRP] Mag HUD",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
